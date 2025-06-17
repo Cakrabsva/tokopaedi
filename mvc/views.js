@@ -1,8 +1,10 @@
 class View {
-    static displayReadData() {
-
+    static displayReadData(data) {
+        console.log(data)
     }
     static displayError (err) {
         console.log(err.message)
     }
 }
+
+module.exports = View

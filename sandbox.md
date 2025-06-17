@@ -17,3 +17,12 @@ if  you don't want to answer all the question you can just hit
 => npm init -y
 
 => npm install pg
+
+step by step
+1. npm init
+2. npm i pg
+3. .gitignore node_modules
+4. setup connection - cereate database
+5. create table
+6. do migration data, if any
+7. play with MVC
