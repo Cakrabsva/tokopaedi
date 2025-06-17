@@ -8,10 +8,10 @@ class Users {
         this.gender = gender
         this.joinAt = joinAt
     }
-    static async readDataUsers (input) {
+    static async readDataUsers (key, value) {
         let query = `SELECT * FROM "Users"`
-        if(input[1]) {
-            query += ` WHERE "Users"."${input[1]}" = '${input[2]}'`
+        if(key) {
+            query += ` WHERE "Users"."${key}" = '${value}'`
         }
         let result = await pool.query(query)
         let instanceData = result.rows.map((el) => {
