@@ -15,3 +15,5 @@ Documentation: https://www.npmjs.com/package/pg
 
 if  you don't want to answer all the question you can just hit
 => npm init -y
+
+=> npm install pg
