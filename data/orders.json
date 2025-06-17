@@ -1,0 +1,211 @@
+[{
+  "id": 1,
+  "product": "Granola",
+  "description": "Crunchy and flavorful mix of oats and honey.",
+  "price": 4.79,
+  "last_update": "5/15/2024",
+  "UserId": 8
+}, {
+  "id": 2,
+  "product": "Walnut Halves",
+  "description": "Fresh walnut halves for baking or snacking.",
+  "price": 8.49,
+  "last_update": "4/14/2025",
+  "UserId": 1
+}, {
+  "id": 3,
+  "product": "Travel Beach Blanket",
+  "description": "Sand-resistant and compact for outdoor and beach use.",
+  "price": 29.99,
+  "last_update": "5/7/2024",
+  "UserId": 3
+}, {
+  "id": 4,
+  "product": "Potting Soil",
+  "description": "Premium potting soil for indoor plants.",
+  "price": 15.99,
+  "last_update": "5/4/2025",
+  "UserId": 5
+}, {
+  "id": 5,
+  "product": "Garden Tool Belt",
+  "description": "Handy belt for carrying garden tools while working.",
+  "price": 22.99,
+  "last_update": "12/23/2024",
+  "UserId": 28
+}, {
+  "id": 6,
+  "product": "Pet Grooming Scissors",
+  "description": "Quality scissors designed for easy pet grooming.",
+  "price": 16.99,
+  "last_update": "2/25/2025",
+  "UserId": 25
+}, {
+  "id": 7,
+  "product": "Wireless Earbud Silicone Covers",
+  "description": "Soft silicone earbud covers for comfort and fit.",
+  "price": 9.99,
+  "last_update": "5/14/2024",
+  "UserId": 24
+}, {
+  "id": 8,
+  "product": "Organic Sweet Potatoes",
+  "description": "Fresh and organic sweet potatoes, ideal for roasting.",
+  "price": 1.99,
+  "last_update": "7/5/2024",
+  "UserId": 3
+}, {
+  "id": 9,
+  "product": "Sweet and Sour Sauce",
+  "description": "Perfect dipping sauce or stir-fry addition for a sweet and tangy flavor.",
+  "price": 2.79,
+  "last_update": "5/10/2024",
+  "UserId": 2
+}, {
+  "id": 10,
+  "product": "Gardening Tool Belt",
+  "description": "Convenient belt with pockets for easy access to tools while gardening.",
+  "price": 22.99,
+  "last_update": "10/28/2024",
+  "UserId": 14
+}, {
+  "id": 11,
+  "product": "Self-Watering Planter",
+  "description": "Planter with self-watering feature for easy plant care.",
+  "price": 24.99,
+  "last_update": "3/17/2025",
+  "UserId": 22
+}, {
+  "id": 12,
+  "product": "Set of Herb Garden Markers",
+  "description": "Stylish markers for labeling your indoor garden plants.",
+  "price": 8.99,
+  "last_update": "7/1/2024",
+  "UserId": 4
+}, {
+  "id": 13,
+  "product": "Blue Corn Tortilla Chips",
+  "description": "Crunchy chips made from blue corn, perfect for dipping.",
+  "price": 3.49,
+  "last_update": "7/8/2024",
+  "UserId": 29
+}, {
+  "id": 14,
+  "product": "Savory Mushroom Risotto",
+  "description": "Creamy risotto infused with wild mushrooms.",
+  "price": 6.49,
+  "last_update": "3/2/2025",
+  "UserId": 8
+}, {
+  "id": 15,
+  "product": "Personal Blender with Cups",
+  "description": "Compact blender that comes with travel cups for smoothies.",
+  "price": 34.99,
+  "last_update": "8/10/2024",
+  "UserId": 8
+}, {
+  "id": 16,
+  "product": "Chili Beans (canned)",
+  "description": "Canned beans with chili sauce, perfect for chili dishes.",
+  "price": 1.69,
+  "last_update": "8/14/2024",
+  "UserId": 28
+}, {
+  "id": 17,
+  "product": "Spiralizer",
+  "description": "Vegetable spiralizer for healthy meals.",
+  "price": 22.99,
+  "last_update": "12/20/2024",
+  "UserId": 8
+}, {
+  "id": 18,
+  "product": "Couscous",
+  "description": "Quick-cooking couscous, great as a side or base.",
+  "price": 2.49,
+  "last_update": "12/12/2024",
+  "UserId": 12
+}, {
+  "id": 19,
+  "product": "Wireless HDMI Receiver",
+  "description": "Stream HD video wirelessly from devices to TV.",
+  "price": 49.99,
+  "last_update": "9/19/2024",
+  "UserId": 22
+}, {
+  "id": 20,
+  "product": "Drone",
+  "description": "Beginner-friendly drone with HD camera.",
+  "price": 249.99,
+  "last_update": "6/17/2024",
+  "UserId": 6
+}, {
+  "id": 21,
+  "product": "Kettle Chip Variety Pack",
+  "description": "A crunchy collection of flavored kettle chips in a convenient pack.",
+  "price": 3.99,
+  "last_update": "9/28/2024",
+  "UserId": 30
+}, {
+  "id": 22,
+  "product": "Slim Fit Chinos",
+  "description": "Comfortable slim fit chinos for a polished look.",
+  "price": 54.99,
+  "last_update": "8/24/2024",
+  "UserId": 10
+}, {
+  "id": 23,
+  "product": "Bock Beer Mustard",
+  "description": "Flavorful mustard with a tangy kick, perfect for hot dogs and sandwiches.",
+  "price": 2.29,
+  "last_update": "6/13/2025",
+  "UserId": 25
+}, {
+  "id": 24,
+  "product": "High-Speed Hand Blender",
+  "description": "Powerful hand blender for soups and smoothies.",
+  "price": 39.99,
+  "last_update": "5/17/2025",
+  "UserId": 27
+}, {
+  "id": 25,
+  "product": "Honey Sriracha Chicken Bites",
+  "description": "Frozen chicken bites coated in a honey sriracha glaze, spicy and sweet.",
+  "price": 7.99,
+  "last_update": "2/16/2025",
+  "UserId": 17
+}, {
+  "id": 26,
+  "product": "Foot Massager Machine",
+  "description": "Electric foot massager for relaxation and relief.",
+  "price": 59.99,
+  "last_update": "2/12/2025",
+  "UserId": 12
+}, {
+  "id": 27,
+  "product": "Motorcycle Phone Mount",
+  "description": "Universal mount for smartphones on motorcycles.",
+  "price": 14.99,
+  "last_update": "1/27/2025",
+  "UserId": 26
+}, {
+  "id": 28,
+  "product": "Bamboo Utensil Set",
+  "description": "Sustainable bamboo utensils for cooking and serving.",
+  "price": 14.99,
+  "last_update": "11/11/2024",
+  "UserId": 12
+}, {
+  "id": 29,
+  "product": "Digital Food Thermometer",
+  "description": "Instant-read thermometer for accurate cooking temperatures.",
+  "price": 19.99,
+  "last_update": "4/7/2025",
+  "UserId": 11
+}, {
+  "id": 30,
+  "product": "Halloween Decoration Set",
+  "description": "Fun decorations for Halloween to set a spooky atmosphere.",
+  "price": 29.99,
+  "last_update": "4/16/2025",
+  "UserId": 5
+}]
