@@ -26,3 +26,17 @@ step by step
 5. create table
 6. do migration data, if any
 7. play with MVC
+
+
+Documentation: https://expressjs.com/en/starter/installing.html
+
+step by step working with express js
+1. npm init
+2. npm i pg
+3. npm i express
+4. .gitignore node_modules
+5. setup connection - cereate database
+6. create table
+7. do migration data, if any
+8. 
+0. play with MVC

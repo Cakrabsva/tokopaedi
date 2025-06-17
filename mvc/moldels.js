@@ -8,14 +8,25 @@ class Users {
         this.gender = gender
         this.joinAt = joinAt
     }
-    static async readDataUsers () {
+    static async readDataUsers (input) {
         let query = `SELECT * FROM "Users"`
+        if(input[1]) {
+            query += ` WHERE "Users"."${input[1]}" = '${input[2]}'`
+        }
         let result = await pool.query(query)
         let instanceData = result.rows.map((el) => {
         let {id, name, email, gender, join_at} = el
             return new Users (id, name, email, gender, join_at)
         })
         return instanceData
+    }
+
+    static async findDataUsersById (input) {
+        let dataUsers = await this.readDataUsers()
+        let filteredData = dataUsers.filter((el) => {
+            return el.id == input
+        })
+        return filteredData
     }
 }
 
