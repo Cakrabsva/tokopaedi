@@ -10,5 +10,12 @@ const pool = new Pool({
 });
 
 (async () => {
-    console.log(await pool.query('SELECT NOW()'));
+    try {
+        console.log("connect");
+    }catch(err) {
+        console.log(err.message)
+    }
+    
 })();
+
+module.exports = pool
